@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnzoki
 - 👀 I’m interested in filmography and architecture
-- 🌱 I’m currently learning python and AutoCAD
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on DiscordBots + Emulators
 - 📫 How to reach me ... 404
 
